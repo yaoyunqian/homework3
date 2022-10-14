@@ -95,7 +95,7 @@ nav{
   /*Span the top row*/
   grid-row-start: 1;
   grid-column: 1/-1;
-  justify-self: center;
+  justify-self: left;
 }
 
 header{
